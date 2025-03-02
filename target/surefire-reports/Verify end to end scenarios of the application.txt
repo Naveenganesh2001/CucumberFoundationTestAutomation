@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Verify end to end scenarios of the application
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.15 s -- in Verify end to end scenarios of the application
